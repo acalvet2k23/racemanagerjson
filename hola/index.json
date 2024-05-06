@@ -1,3 +1,27 @@
 {
-    "test": "hello world"
+	“curses”: [
+		{
+			“id”: ””,
+			“nom”: ””,
+			“dataInici”: ””,
+			“dataFi”: ””,
+			“lloc”: ””,
+			“esport”: {
+				“id”: “”,
+				“nom”: “”
+},
+			“estat”: {
+				“id”: “”,
+				“nom”: “”
+},
+			“descripcio”: ””,
+			“limit”: ””,
+			“foto”: ””,
+			“web”: ””
+}
+],
+“error”: {
+	“code”: “”,
+	“description”: “”
+}
 }
