@@ -1,0 +1,19 @@
+{
+    "circuits": [{
+        "id": "",
+        "cursaId": "",
+        "num": "",
+        "distancia": "",
+        "nom": "",
+        "preu": "",
+        "temps": "",
+        "checkpoints": [{
+            "id": "",
+            "pk": ""
+        }]
+    }],
+	"repsonse": {
+		"code": "",
+		"description": ""
+	}
+}
