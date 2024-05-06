@@ -1,26 +1,26 @@
 {
-	“curses”: [
+	"curses": [
 		{
-		“id”: ””,
-		“nom”: ””,
-		“dataInici”: ””,
-		“dataFi”: ””,
-		“lloc”: ””,
-		“esport”: {
-			“id”: “”,
-			“nom”: “”
+		"id": "",
+		"nom": "",
+		"dataInici": "",
+		"dataFi": "",
+		"lloc": "",
+		"esport": {
+			"id": "",
+			"nom": ""
 		},
-		“estat”: {
-			“id”: “”,
-			“nom”: “”
+		"estat": {
+			"id": "",
+			"nom": ""
 		},
-		“descripcio”: ””,
-		“limit”: ””,	
-		“foto”: ””,
-		“web”: ””
+		"descripcio": "",
+		"limit": "",	
+		"foto": "",
+		"web": ""
 	}],
-	“error”: {
-		“code”: “”,
-		“description”: “”
+	"error": {
+		"code": "",
+		"description": ""
 	}
 }
