@@ -1,0 +1,12 @@
+{
+	"participant": {
+		"nif": "",
+		"nom": "",
+		"cognoms": "",
+		"dataNaixement": "",
+		"telefon": "",
+		"email": "",
+		"esFederat": ""
+	},
+	"cursaId": ""
+}
