@@ -1,23 +1,100 @@
 {
 	"curses": [{
-		"id": "1",
-		"nom": "Pa amb tomaquet",
-		"dataInici": "",
-		"dataFi": "",
-		"lloc": "",
-		"esport": {
-			"id": "",
-			"nom": ""
+			"id": "1",
+			"nom": "Pa amb tomaquet",
+			"dataInici": "2024-05-10",
+			"dataFi": "2024-05-15",
+			"lloc": "Barcelona",
+			"esport": {
+				"id": "1",
+				"nom": "Ciclismo"
+			},
+			"estat": {
+				"id": "1",
+				"nom": "Activo"
+			},
+			"descripcio": "Curso de preparación de pa amb tomaquet.",
+			"limit": "20",
+			"foto": "https://ejemplo.com/foto1.jpg",
+			"web": "https://ejemplo.com/curso1"
 		},
-		"estat": {
-			"id": "",
-			"nom": ""
+		{
+			"id": "2",
+			"nom": "Tortilla de patatas",
+			"dataInici": "2024-06-01",
+			"dataFi": "2024-06-05",
+			"lloc": "Madrid",
+			"esport": {
+				"id": "2",
+				"nom": "Fútbol"
+			},
+			"estat": {
+				"id": "1",
+				"nom": "Activo"
+			},
+			"descripcio": "Aprende a hacer la mejor tortilla de patatas.",
+			"limit": "15",
+			"foto": "https://ejemplo.com/foto2.jpg",
+			"web": "https://ejemplo.com/curso2"
 		},
-		"descripcio": "",
-		"limit": "",	
-		"foto": "",
-		"web": ""
-	}],
+		{
+			"id": "3",
+			"nom": "Sushi básico",
+			"dataInici": "2024-07-10",
+			"dataFi": "2024-07-15",
+			"lloc": "Tokio",
+			"esport": {
+				"id": "3",
+				"nom": "Natación"
+			},
+			"estat": {
+				"id": "1",
+				"nom": "Activo"
+			},
+			"descripcio": "Curso introductorio de sushi.",
+			"limit": "25",
+			"foto": "https://ejemplo.com/foto3.jpg",
+			"web": "https://ejemplo.com/curso3"
+		},
+		{
+			"id": "4",
+			"nom": "Pizza italiana",
+			"dataInici": "2024-08-05",
+			"dataFi": "2024-08-10",
+			"lloc": "Roma",
+			"esport": {
+				"id": "4",
+				"nom": "Tenis"
+			},
+			"estat": {
+				"id": "1",
+				"nom": "Activo"
+			},
+			"descripcio": "Aprende a hacer auténtica pizza italiana.",
+			"limit": "18",
+			"foto": "https://ejemplo.com/foto4.jpg",
+			"web": "https://ejemplo.com/curso4"
+		},
+		{
+			"id": "5",
+			"nom": "Sopa de fideos",
+			"dataInici": "2024-09-15",
+			"dataFi": "2024-09-20",
+			"lloc": "Beijing",
+			"esport": {
+				"id": "5",
+				"nom": "Atletismo"
+			},
+			"estat": {
+				"id": "1",
+				"nom": "Activo"
+			},
+			"descripcio": "Curso de cocina oriental.",
+			"limit": "30",
+			"foto": "https://ejemplo.com/foto5.jpg",
+			"web": "https://ejemplo.com/curso5"
+		}
+	],
 	"repsonse": {
 		"code": "",
 		"description": ""
