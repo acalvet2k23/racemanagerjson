@@ -17,7 +17,7 @@
 			"limit": "20",
 			"participants": 4,
 			"foto": "https://ejemplo.com/foto1.jpg",
-			"web": "https://ejemplo.com/curso1"
+			"web": "https://athleticevents.net/imagenes/eventos/441.jpeg"
 		},
 		{
 			"id": "2",
@@ -37,7 +37,7 @@
 			"limit": "15",
 			"participants": 4,
 			"foto": "https://ejemplo.com/foto2.jpg",
-			"web": "https://ejemplo.com/curso2"
+			"web": "https://athleticevents.net/imagenes/eventos/448.jpeg"
 		},
 		{
 			"id": "3",
@@ -57,7 +57,7 @@
 			"limit": "25",
 			"participants": 4,
 			"foto": "https://ejemplo.com/foto3.jpg",
-			"web": "https://ejemplo.com/curso3"
+			"web": "https://www.inscripcions.cat/inscripcions/images_menu_public/lasantvibike2024.png"
 		},
 		{
 			"id": "4",
@@ -76,7 +76,7 @@
 			"descripcio": "Aprende a hacer auténtica pizza italiana.",
 			"limit": "18",
 			"participants": 4,
-			"foto": "https://ejemplo.com/foto4.jpg",
+			"foto": "https://i.ytimg.com/vi/ZQcw9r1xoik/hq720.jpg?sqp=-oaymwEXCK4FEIIDSFryq4qpAwkIARUAAIhCGAE=&rs=AOn4CLAtHwImADWgI_zbovZBz0taqw_14g",
 			"web": "https://ejemplo.com/curso4"
 		},
 		{
