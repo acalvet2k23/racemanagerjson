@@ -15,6 +15,7 @@
 			},
 			"descripcio": "Curso de preparación de pa amb tomaquet.",
 			"limit": "20",
+			"participants": 4,
 			"foto": "https://ejemplo.com/foto1.jpg",
 			"web": "https://ejemplo.com/curso1"
 		},
@@ -34,6 +35,7 @@
 			},
 			"descripcio": "Aprende a hacer la mejor tortilla de patatas.",
 			"limit": "15",
+			"participants": 4,
 			"foto": "https://ejemplo.com/foto2.jpg",
 			"web": "https://ejemplo.com/curso2"
 		},
@@ -53,6 +55,7 @@
 			},
 			"descripcio": "Curso introductorio de sushi.",
 			"limit": "25",
+			"participants": 4,
 			"foto": "https://ejemplo.com/foto3.jpg",
 			"web": "https://ejemplo.com/curso3"
 		},
@@ -72,6 +75,7 @@
 			},
 			"descripcio": "Aprende a hacer auténtica pizza italiana.",
 			"limit": "18",
+			"participants": 4,
 			"foto": "https://ejemplo.com/foto4.jpg",
 			"web": "https://ejemplo.com/curso4"
 		},
@@ -91,11 +95,12 @@
 			},
 			"descripcio": "Curso de cocina oriental.",
 			"limit": "30",
+			"participants": 4,
 			"foto": "https://ejemplo.com/foto5.jpg",
 			"web": "https://ejemplo.com/curso5"
 		}
 	],
-	"repsonse": {
+	"status": {
 		"code": "",
 		"description": ""
 	}
