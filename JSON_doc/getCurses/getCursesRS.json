@@ -16,8 +16,8 @@
 			"descripcio": "Curso de preparación de pa amb tomaquet.",
 			"limit": "20",
 			"participants": 4,
-			"foto": "https://ejemplo.com/foto1.jpg",
-			"web": "https://athleticevents.net/imagenes/eventos/441.jpeg"
+			"foto": "https://athleticevents.net/imagenes/eventos/441.jpeg",
+			"web": "https://ejemplo.com/curso1"
 		},
 		{
 			"id": "2",
@@ -36,8 +36,8 @@
 			"descripcio": "Aprende a hacer la mejor tortilla de patatas.",
 			"limit": "15",
 			"participants": 4,
-			"foto": "https://ejemplo.com/foto2.jpg",
-			"web": "https://athleticevents.net/imagenes/eventos/448.jpeg"
+			"foto": "https://athleticevents.net/imagenes/eventos/448.jpeg",
+			"web": "https://ejemplo.com/curso2"
 		},
 		{
 			"id": "3",
@@ -56,8 +56,8 @@
 			"descripcio": "Curso introductorio de sushi.",
 			"limit": "25",
 			"participants": 4,
-			"foto": "https://ejemplo.com/foto3.jpg",
-			"web": "https://www.inscripcions.cat/inscripcions/images_menu_public/lasantvibike2024.png"
+			"foto": "https://www.inscripcions.cat/inscripcions/images_menu_public/lasantvibike2024.png",
+			"web": "https://ejemplo.com/curso3"
 		},
 		{
 			"id": "4",
