@@ -1,17 +1,17 @@
 {
     "circuits": [{
         "id": "1",
-        "cursaId": "CRS001",
+        "cursaId": "001",
         "num": "1",
         "distancia": "10",
         "nom": "Carrera de la Montaña",
         "preu": "20",
         "temps": "2024-05-13T01:15:00",
         "checkpoints": [{
-            "id": "CP001",
+            "id": "001",
             "pk": "Punto de Control 1"
         },{
-            "id": "CP002",
+            "id": "002",
             "pk": "Punto de Control 2"
         },{
             "id": "CP003",
@@ -23,17 +23,17 @@
         ]
     },{
         "id": "2",
-        "cursaId": "CRS002",
+        "cursaId": "002",
         "num": "2",
         "distancia": "5",
         "nom": "Carrera por el Bosque",
         "preu": "15",
         "temps": "2024-05-13T00:45:00",
         "checkpoints": [{
-            "id": "CP001",
+            "id": "001",
             "pk": "Punto de Control 1"
         },{
-            "id": "CP002",
+            "id": "002",
             "pk": "Punto de Control 2"
         }],
         "categories": [
