@@ -1,24 +1,47 @@
 {
     "circuits": [{
-        "id": "",
-        "cursaId": "",
-        "num": "",
-        "distancia": "",
-        "nom": "",
-        "preu": "",
-        "temps": "",
+        "id": "1",
+        "cursaId": "CRS001",
+        "num": "1",
+        "distancia": "10",
+        "nom": "Carrera de la Montaña",
+        "preu": "20",
+        "temps": "2024-05-13T01:15:00",
         "checkpoints": [{
-            "id": "",
-            "pk": ""
+            "id": "CP001",
+            "pk": "Punto de Control 1"
+        },{
+            "id": "CP002",
+            "pk": "Punto de Control 2"
+        },{
+            "id": "CP003",
+            "pk": "Punto de Control 3"
         }],
-	"categories": [
-		"Ciclisme",
-		"Running",
-		"Natacion entre cocodrilos"
-	]
+        "categories": [
+            "Running",
+            "Ciclismo"
+        ]
+    },{
+        "id": "2",
+        "cursaId": "CRS002",
+        "num": "2",
+        "distancia": "5",
+        "nom": "Carrera por el Bosque",
+        "preu": "15",
+        "temps": "2024-05-13T00:45:00",
+        "checkpoints": [{
+            "id": "CP001",
+            "pk": "Punto de Control 1"
+        },{
+            "id": "CP002",
+            "pk": "Punto de Control 2"
+        }],
+        "categories": [
+            "Running"
+        ]
     }],
-	"status": {
-		"code": "",
-		"description": ""
-	}
+    "status": {
+        "code": "200",
+        "description": "OK"
+    }
 }
