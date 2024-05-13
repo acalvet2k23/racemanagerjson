@@ -9,13 +9,13 @@
         "temps": "2024-05-13T01:15:00",
         "checkpoints": [{
             "id": "001",
-            "pk": "Punto de Control 1"
+            "pk": "1"
         },{
             "id": "002",
-            "pk": "Punto de Control 2"
+            "pk": "2"
         },{
-            "id": "CP003",
-            "pk": "Punto de Control 3"
+            "id": "003",
+            "pk": "3"
         }],
         "categories": [
             "Running",
@@ -31,10 +31,10 @@
         "temps": "2024-05-13T00:45:00",
         "checkpoints": [{
             "id": "001",
-            "pk": "Punto de Control 1"
+            "pk": "1"
         },{
             "id": "002",
-            "pk": "Punto de Control 2"
+            "pk": "2"
         }],
         "categories": [
             "Running"
