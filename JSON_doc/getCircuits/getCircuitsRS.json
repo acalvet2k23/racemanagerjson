@@ -11,7 +11,11 @@
             "id": "",
             "pk": ""
         }],
-	"categories": ["Ciclisme","Running","Natacion entre cocodrilos"]
+	"categories": [
+		"Ciclisme",
+		"Running",
+		"Natacion entre cocodrilos"
+	]
     }],
 	"repsonse": {
 		"code": "",
