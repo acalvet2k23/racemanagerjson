@@ -4,14 +4,46 @@
 Dentro de ```json_doc``` podemos ver las llamadas que hay disponibles.
 
 ### getCurses
- * request
+#Descripción:
+Obtiene todas las cursas o solo una indicándole el ID
 
-Pide todas las cursas que hayan, ordenadas por fecha. Acepta el parámetro opcional ```cursaId``` para recibir solo la información de una cursa.
+#Parámetros:
+* id (opcional): Filtra rutas por ID y devuelve la que corresponda
 
- * response
+#Llamada a la api:
+http://[servidor]/api/getCurses/[id si se desea]
 
-Devuelve un array de cursas con todos sus datos, incluido *esport* y *estat* con sus respectivos **id** y **nom**
-También devuelve un objeto llamado **response** con código de error y descripción del error
+#Ejemplo de resultado:
+```json
+    {
+        "curses": [
+            {
+                "id": 1,
+                "nom": "Cursa1",
+                "dataInici": "2024-05-25",
+                "dataFi": "2024-05-26",
+                "lloc": "aaa",
+                "esport": {
+                    "id": 1,
+                    "nom": "Ciclisme"
+                },
+                "estat": {
+                    "id": 1,
+                    "nom": "En preparació"
+                },
+                "descripcio": "asasa",
+                "limit": 11,
+                "inscrits": 3,
+                "foto": "foto",
+                "web": "a"
+            }
+        ],
+        "status": {
+            "code": "200",
+            "description": "Ok"
+        }
+    }
+```
 
 ### inscriure
  * request

@@ -1,5 +1,7 @@
 {
-    "beaconId": "",
-    "checkpointId": "",
-    "time": ""
+    "parId": 12,
+    "cccId": 1,
+    "beaId": 12,
+    "chkId": 2,
+    "temps": "2011-02-03"
 }
