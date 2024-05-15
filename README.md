@@ -1,18 +1,16 @@
 # racemanagerjson
 
-### Llamadas disponibles
-
 ## getCurses
 # Descripción:
 Obtiene todas las cursas o solo una indicándole el ID
 
-# Parámetros:
+### Parámetros:
 * id (opcional): Filtra rutas por ID y devuelve la que corresponda
 
-# Llamada a la api:
+### Llamada a la api:
 http://[servidor]/api/getCurses/[id si se desea]
 
-# Ejemplo de resultado:
+### Ejemplo de resultado:
 ```json
     {
         "curses": [
