@@ -183,7 +183,8 @@ Contenido necesario en el json:
 ```json
 {
     "parId": 1,
-    "cccId": 1,
+    "catId": 1,
+    "cirId": 1,
     "beaId": 1,
     "chkId": 3,
     "temps": "2011-02-03"
