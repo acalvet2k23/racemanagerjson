@@ -72,7 +72,7 @@ Obtiene todos los circuitos o solo uno si se indica el ID
 * (int) - [opcional]: Filtra los circuitos por la cursa a la que pertenecen
 
 ### Llamada a la api:
-http://[servidor]/api/getCurses/[int?]
+http://[servidor]/api/getCIRCUITS/[int?]
 
 
 ### Ejemplo de resultado:
@@ -99,7 +99,7 @@ http://[servidor]/api/getCurses/[int?]
           "nom": "cadet"
         }
       ]
-0'    },
+    },
     {
       "id": 2,
       "cursaId": 2,
