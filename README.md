@@ -94,7 +94,10 @@ http://[servidor]/api/getCurses/[int?]
         }
       ],
       "categories": [
-          "cadet"
+        {
+          "id": 1,
+          "nom": "cadet"
+        }
       ]
 0'    },
     {
@@ -120,8 +123,14 @@ http://[servidor]/api/getCurses/[int?]
         }
       ],
       "categories": [
-          "Casual",
-          "Profesional"
+        {
+          "id": 5,
+          "nom": "Casual"
+        },
+        {
+          "id": 6,
+          "nom": "Profesional"
+        }
       ]
     }
   ],
@@ -154,7 +163,7 @@ Contenido necesario en el json:
 	},
 	"cursaId": 1,
 	"circuitId": 1,
-	"cccId": 1
+	"catId": 1
 }
 ```
 
