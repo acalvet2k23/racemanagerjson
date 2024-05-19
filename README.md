@@ -147,7 +147,8 @@ http://[servidor]/api/getCIRCUITS/[int?]
 Inscribe un participante 
 
 ### Parámetros:
-* (json) - [obligatorio]: Un json que contiene los datos del participante + los id de cur, cir y ccc al que se apunta
+* (json) - [obligatorio]: Un json que contiene los datos del participante + los id de cur, cir y ccc al que se apunta.
+**Atención:** _codiFederat_ puede estar vacío si no está federado.
 
 Contenido necesario en el json:
 ```json
