@@ -160,7 +160,7 @@ Contenido necesario en el json:
 		"dataNaixement": "10-10-2010",
 		"telefon": "600655301",
 		"email": "dcano@milaifontanals.org",
-		"codiFederat": '02348'
+		"codiFederat": "02348"
 	},
 	"cursaId": 1,
 	"circuitId": 1,
