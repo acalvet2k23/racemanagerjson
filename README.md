@@ -147,9 +147,8 @@ http://[servidor]/api/getCIRCUITS/[int?]
 Inscribe un participante 
 
 ### Parámetros:
-* (json) - [obligatorio]: Un json que contiene los datos del participante + los id de cur, cir y ccc al que se apunta.
-**Atención:** _codiFederat_ puede estar vacío si no está federado.
-
+* (json) - [obligatorio]: Un json que contiene los datos del participante + los id de cur, cir y ccc al que se apunta
+  * codiFederat es opcional, si no es federado no se pone y si lo es, deben ser 5 digitos
 Contenido necesario en el json:
 ```json
 {
@@ -160,7 +159,7 @@ Contenido necesario en el json:
 		"dataNaixement": "10-10-2010",
 		"telefon": "600655301",
 		"email": "dcano@milaifontanals.org",
-		"codiFederat": "02348"
+		"codiFederat": "55664"
 	},
 	"cursaId": 1,
 	"circuitId": 1,
