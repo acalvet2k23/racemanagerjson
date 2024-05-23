@@ -162,7 +162,6 @@ Contenido necesario en el json:
 		"email": "dcano@milaifontanals.org",
 		"codiFederat": "55664"
 	},
-	"cursaId": 1,
 	"circuitId": 1,
 	"catId": 1
 }
