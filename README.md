@@ -149,6 +149,7 @@ Inscribe un participante
 ### Parámetros:
 * (json) - [obligatorio]: Un json que contiene los datos del participante + los id de cur, cir y ccc al que se apunta
   * codiFederat es opcional, si no es federado no se pone y si lo es, deben ser 5 digitos
+
 Contenido necesario en el json:
 ```json
 {
